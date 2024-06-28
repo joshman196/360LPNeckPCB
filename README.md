@@ -1,5 +1,5 @@
 # 360LPNeckPCB
-A functional clone of the Les Paul Neck Connector PCB (for the Xbox 360 version). Before you decide to replace your original board, you can try adding solder to its worn pads to see if that will fix your issue of the fret buttons not working properly. This means you won't have to order a new PCB if that ends up being the problem.
+A functional clone of the Guitar Hero Les Paul Neck Connector PCB (for the Xbox 360 version). Before you decide to replace your original board, you can try adding solder to its worn pads to see if that will fix your issue of the fret buttons not working properly. This means you won't have to order a new PCB if that ends up being the problem.
 
 **SET PCB THICKNESS TO 1.2MM ON THE PCB ORDER PAGE**. Optionally on JLCPCB, you can set "Remove Order Number" to "Specify a location".
 
